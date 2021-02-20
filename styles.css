@@ -133,13 +133,12 @@ img {
 }
 
 .col-7 {
-	left: 15%;
+	left: 20%;
+	text-align: center;
 }
 
 .col-7 p {
 	font-size: 26px;
-	text-align: center;
-	padding-left: 165px;
 	color: #9FA7A8;
 	margin-top: 0.4em;
 }
@@ -147,8 +146,6 @@ img {
 .col-7 h5 {
 	padding-top: 5%;
 	font-size: 53px;
-	text-align: center;
-	padding-left: 165px;
 	color: #3cdae3;
 }
 
@@ -164,7 +161,6 @@ img {
 
 .text2 p {
 	font-size: 27px;
-	text-align: center;
 	color: #9FA7A8;
 	margin-top: 0.3em;
 }
