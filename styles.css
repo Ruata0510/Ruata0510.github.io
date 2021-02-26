@@ -68,18 +68,18 @@ header{
 	color: white;
 }
 
-.col-md-3 h3 {
+.col-md-2 h3 {
 	padding-top: 21%;
 	font-size: 35px;
 	color: #3cdae3;
 }
 
-.col-md-3 img {
+.col-md-2 img {
 	width: 70px;
 	height: 40px;
 }
 
-.col-md-3 a {
+.col-md-2 a {
 	color: white;
 }
 
